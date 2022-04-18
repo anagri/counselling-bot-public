@@ -1,0 +1,8 @@
+.DS_Store
+outputs
+.Trash*
+.gradient
+.ipynb_checkpoints
+__pycache__
+lightning_logs
+
